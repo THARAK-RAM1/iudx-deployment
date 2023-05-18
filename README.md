@@ -1,7 +1,7 @@
 ![IUDX](./docs/iudx.png)
 
 
-[![Kubescape-Auth Status](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.iudx.io%2Fjob%2Fiudx%2520aaa-server%2520%28master%29%2520pipeline%2F)](https://jenkins.iudx.io/job/iudx%20aaa-server%20(master)%20pipeline/lastBuild/)
+[![Kubescape-Auth Status](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fjenkins.iudx.io%2Fjob%2Fiudx%2520aaa-server%2520%28master%29%2520pipeline%2Flabel=Kubescape-Auth)](https://jenkins.iudx.io/job/iudx%20aaa-server%20(master)%20pipeline/lastBuild/)
 
 # iudx-deployment
 This repository gives installation and setup scripts to deploy the IUDX platform. We provide and support two types of IUDX platform deployment : 
